@@ -30,6 +30,6 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "suggest": {
-        "felixmuhoro/laravel-mpesa": "The core M-Pesa Daraja 2.0 integration this package is built on"
+        "felixmuhoro/laravel-mpesa": "Core M-Pesa Daraja 2.0 integration"
     }
 }
