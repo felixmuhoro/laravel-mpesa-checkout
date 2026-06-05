@@ -28,8 +28,5 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "suggest": {
-        "felixmuhoro/laravel-mpesa": "Core M-Pesa Daraja 2.0 integration"
-    }
+    "prefer-stable": true
 }
