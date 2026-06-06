@@ -2,7 +2,14 @@
     "name": "felixmuhoro/laravel-mpesa-checkout",
     "description": "Drop-in M-Pesa STK Push checkout UI for Laravel — Blade component + controller with full polling flow",
     "type": "library",
-    "keywords": ["laravel", "mpesa", "checkout", "stk-push", "payment", "kenya"],
+    "keywords": [
+        "laravel",
+        "mpesa",
+        "checkout",
+        "stk-push",
+        "payment",
+        "kenya"
+    ],
     "homepage": "https://github.com/felixmuhoro/laravel-mpesa-checkout",
     "license": "MIT",
     "authors": [
