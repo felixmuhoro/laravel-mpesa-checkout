@@ -24,21 +24,21 @@
     },
     "autoload": {
         "psr-4": {
-            "FelixMuhoro\MpesaCheckout\\": "src/"
+            "FelixMuhoro\\MpesaCheckout\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FelixMuhoro\MpesaCheckout\Tests\\": "tests/"
+            "FelixMuhoro\\MpesaCheckout\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "FelixMuhoro\MpesaCheckout\MpesaCheckoutServiceProvider"
+                "FelixMuhoro\\MpesaCheckout\MpesaCheckoutServiceProvider"
             ],
             "aliases": {
-                "MpesaCheckout": "FelixMuhoro\MpesaCheckout\Facades\MpesaCheckout"
+                "MpesaCheckout": "FelixMuhoro\\MpesaCheckout\Facades\MpesaCheckout"
             }
         }
     },
